@@ -11,7 +11,6 @@
 
 #### Studying in this moment:
 
-![SringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
